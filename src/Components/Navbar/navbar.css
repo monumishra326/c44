@@ -1,7 +1,7 @@
 .navbar {
-  background-color: rgb(8, 8, 8);
+  background-color: rgb(10, 10, 10);
   color: white;
-  padding: 10px;
+  padding: 11px;
   display: flex;
   justify-content: space-around;
 }
@@ -16,14 +16,14 @@
 .navbarHome {
   color: white;
   font-weight: bold;
-  font-size: 20px;
+  font-size: 22px;
   text-decoration: none;
   /* border: 2px solid yellow; */
   padding: 5px 10px;
   border-radius: 5px;
-  background-color: coral;
+  background-color: yellow;
 }
 
 /* .navbarHome {
-  background-color: red;
+  background-color: blue;
 } */
