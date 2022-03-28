@@ -1,7 +1,7 @@
 {
   "users": [
     {
-      "name": "Samuel",
+      "name": "jkhk",
       "password": "secret",
       "location": "bangalore",
       "interests": [
@@ -20,14 +20,14 @@
       ]
     },
     {
-      "name": "dvz",
+      "name": "dvbhjjgz",
       "password": "dfv",
       "location": "bangalore",
       "image": "fv",
       "id": 2
     },
     {
-      "name": "underground",
+      "name": "underhjbhjgground",
       "password": "123",
       "location": "bangalore",
       "intrests": [
@@ -36,19 +36,19 @@
         "culture",
         "drama"
       ],
-      "image": "sds",
+      "image": "skjhkjds",
       "subscribed": [],
       "id": 3
     },
     {
-      "name": "hello",
+      "name": "heljbhhjglo",
       "password": "hello",
       "location": "bangalore",
       "intrests": [
         "food",
         "movies"
       ],
-      "image": "hello",
+      "image": "hejkkllo",
       "subscribed": [],
       "id": 4
     }
@@ -56,7 +56,7 @@
   "meetups": [
     {
       "id": 1,
-      "title": "Saunter Strech",
+      "title": "Sauntebhbr Strech",
       "location": "bangalore",
       "date": "2022-03-25",
       "time": "23:59",
@@ -66,7 +66,7 @@
     },
     {
       "id": 2,
-      "title": "hey Strech",
+      "title": "heybhbhbjhbjh Strmbbmech",
       "location": "mumbai",
       "date": "2022-03-25",
       "time": "23:59",
